@@ -4,5 +4,3 @@ Ce script permet de déterminer la fréquence de coupe optimale pour filtrer un 
 [1]	D. A. Winter, Biomechanics and Motor Control of Human Movement. Wiley, 1990.
 
 [2]	D. Mullineaux, « USING A BREAKPOINT TO DETERMINE THE OPTIMAL CUT-OFF FREQUENCY », ISBS Proceedings Archive, vol. 35, no 1, oct. 2017.
-
-Jason Dellai 2023
